@@ -58,9 +58,6 @@ ${cert}
 <ca>
 ${ca_crt}
 </ca>
-<dh>
-${dh2048}
-</dh>
 
 # hardening
 remote-cert-tls server
